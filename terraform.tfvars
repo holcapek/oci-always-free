@@ -1,0 +1,5 @@
+tenancy_id     = "ocid1.tenancy.oc1..aaaaaaaaqexhlpvv2ywh2tk7iz2pshnhfzmww3mzmjzjc3szcsftil2cibjq"
+region         = "eu-frankfurt-1"
+user_id        = "ocid1.user.oc1..aaaaaaaam53r4klcnkuaitmvjgrld7ssfjqiqfpzskrnunbg2dycosynpb7q"
+fingerprint    = "b3:3f:34:2f:a4:09:ff:f7:26:00:09:3f:2e:a3:24:b7"
+public_ssh_key = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCdJhpvA6aynpdjY0jRriCQLmUku/wEguyNNu6ZhBhlHWKPtw70P61ESgnpMprAFhxqft4eO7kZXj8pM7GCjkp3+2HxR6aEpMP6ksfdEPXHiQ4uMyMoFQdfsctN5k9xZrucb34OnNg8/civNaiqsChrI2/Afzal32jlsB95qhFnmNhXxHWPIFP//HpKtQfXtZFjq8JPBeW+84bA9g7ciOsFgK198Afs69i80nJLLWX2uuNUqHxXM8Bvgw/ZYSIxtC37xsArWYMUoJzD5cRvlrONKSIXy0Qqv0638R9X0zYgLTTS0Y6w3Y5S5kp0GIKUuVwdttDii6Xu6kUgK5TwbhkWHe0W94zEnGjlkGknZkx5ieaGp6Bdie/zImIcxcK0aCSDfeZV/XVgjaazZ7jGYzImMg4tmtAhQna2y8p6W9hF9ISeBjsuqzhCa1CRrR4TmmgubMlBQBgtvhsd7WWIzAq9gDWf/KNZ9GAmfj7JwuJoJdKm9mTbmsAhQmKhduh++j5nAWT2W4EjL0de2SA8voUXX9O09csp45v87Kt2krdfDQlcb74NzQ9Th3JihGqzX+ZQXMQeQBeOXfarrzgoUiLXt10p6TYhLVjg3TY3OCMAbsvMWFp1JrYEnuyL/rJrSwSBJoSBRie1/9Nu5EJ3WLZFLlOBhJrJ/YQAvha+GT8rcQ== jholcape@robotron"
